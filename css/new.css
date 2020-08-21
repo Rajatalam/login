@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.n {
+	width: 600px;
+	height: 600px;
+	background-color: #555;
+	margin: 50px auto;
+}
+.n1 {
+	display: block;
+	width: 40%;
+	margin: 30px auto;
+
+}
+
+.db {
+	height: 30px;
+	height: 30px;
+	border: 1px solid black;
+}
+
+.n p {
+	text-align: center;
+}
+
+.ch {
+	display: block;
+	margin-left: 192px;
+	margin-bottom: -16px;
+	padding-top: 30px;
+
+}
+.n select {
+	display: block;
+	margin-left: 277px;
+	text-align: center;
+}
+
+
+.mm {
+	display: block;
+	margin: auto;
+	margin-bottom: 40px;
+}
+.n label {
+	color: red;
+	text-align: center;
+	display: block;
+}
